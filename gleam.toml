@@ -6,7 +6,7 @@ version = "0.0.1"
 #
 description = "A simple Google Cloud Platform compliant logging library for Gleam!"
 licences = ["MIT"]
-repository = { type = "github", user = "sam-kenney", repo = "glog" }
+repository = { type = "github", user = "sam-kenney", repo = "gclog" }
 #
 # For a full reference of all the available options, you can have a look at
 # https://gleam.run/writing-gleam/gleam-toml/.
