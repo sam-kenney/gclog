@@ -1,7 +1,7 @@
 # gclog
 
-[![Package Version](https://img.shields.io/hexpm/v/slog)](https://hex.pm/packages/slog)
-[![Hex Docs](https://img.shields.io/badge/hex-docs-ffaff3)](https://hexdocs.pm/slog/)
+[![Package Version](https://img.shields.io/hexpm/v/gclog)](https://hex.pm/packages/gclog)
+[![Hex Docs](https://img.shields.io/badge/hex-docs-ffaff3)](https://hexdocs.pm/gclog/)
 
 ```sh
 gleam add gclog
